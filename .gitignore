@@ -1,0 +1,9 @@
+dataset_new/
+header_crops/
+ocr_output/
+header_extraction_output/
+header_text_crops/
+runs/
+
+__pycache__/
+.DS_Store
